@@ -52,11 +52,11 @@
 	},
 	"sources": {
 		"welcome-to-solidity.sol": {
-			"keccak256": "0x122295ca010407f1a2915700a0269a392f16f413cd9309d7552f766acc05e495",
+			"keccak256": "0xf133853cbbdc65e9140e57a3bd7e71e9b14afee2ede1f85ef2e5268cf6bf9fde",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://9a6392daa82d6bf10347951788ccc40f715d13c2e0574ddbd380125bec215ff6",
-				"dweb:/ipfs/QmPjwf78aQfpbypddVbY6xgaf8yZg8VJqZagMCe32faTaX"
+				"bzz-raw://156248bfc8dda5ac1eec3f21f352486576f9544aec1c005bd03f35012e8255f0",
+				"dweb:/ipfs/QmUL2HSie2dxTYiqby3h9N5ojx1jXyvKyKjyDCJTojL1zR"
 			]
 		}
 	},
